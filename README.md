@@ -11,6 +11,7 @@ Defect detection and reporting
 
 Documentation of results and findings
 
+
 🧪 Types of Testing Performed
 ✅ Smoke Testing: Verify the API is reachable and endpoints are responsive
 
@@ -26,6 +27,7 @@ Documentation of results and findings
 
 ✅ Regression Testing: Re-run test cases after bug fixes to ensure stability
 
+
 🧠 Test Design Techniques Used
 Equivalence Partitioning: Divided input data into valid and invalid classes
 
@@ -37,12 +39,14 @@ State Transition Testing: Simulated state changes like booking lifecycle transit
 
 Use Case Testing: Based on real-world scenarios like complete booking workflow
 
+
 🛠️ Approaches Used
 Error Guessing: Predicted likely failure points based on experience
 
 Exploratory Testing: Freeform testing to uncover hidden issues
 
 Prioritized Test Cases: Based on functionality criticality and bug frequency
+
 
 🔧 Tools Used
 📬 Postman – for sending HTTP requests and validating responses
@@ -53,6 +57,7 @@ Prioritized Test Cases: Based on functionality criticality and bug frequency
 
 📸 Snipping Tool – to capture screenshots of response bodies and errors
 
+
 📊 Artifacts Created
 ✅ Test Plan – Described testing scope, schedule, approach, and risks
 
@@ -61,6 +66,7 @@ Prioritized Test Cases: Based on functionality criticality and bug frequency
 ✅ Defect Report – Including status codes not matching expected values, method not allowed errors, etc.
 
 ✅ Test Execution Report – Summarizing test case outcomes and highlighting key bugs
+
 
 🏁 Conclusion
 This project strengthened hands-on experience with REST APIs, focusing on:
