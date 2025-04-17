@@ -12,6 +12,7 @@ Defect detection and reporting
 Documentation of results and findings
 
 
+
 🧪 Types of Testing Performed
 ✅ Smoke Testing: Verify the API is reachable and endpoints are responsive
 
